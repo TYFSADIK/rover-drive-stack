@@ -1,0 +1,1 @@
+# analysis is stdlib; firmware deps are in firmware/platformio.ini
